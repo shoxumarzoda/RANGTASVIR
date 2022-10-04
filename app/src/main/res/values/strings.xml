@@ -7,7 +7,13 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_home">Asosiy qism</string>
+    <string name="menu_gallery">Video darslar</string>
+    <string name="menu_slideshow">Mualliflar haqida</string>
+    <string name="asosiy_qism">Asosiy qism</string>
+    <string name="video_darslar">Video darslar</string>
+    <string name="mualliflar_haqida">Mualliflar haqida</string>
+    <string name="searche_view">searche_view</string>
+
+
 </resources>
