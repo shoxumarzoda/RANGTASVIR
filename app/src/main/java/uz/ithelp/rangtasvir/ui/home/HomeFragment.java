@@ -109,7 +109,8 @@ public class HomeFragment extends Fragment {
     }
 
     private void initiali() {
-        modelViewPagerList.add(new ModelViewPager(R.drawable.b1,"KIRISH","BIRINCHI QISM. ETNOLOGIYANING UMUMIY MUAMMOLARI ...","https://github.com/shoxumarzoda/ETNOLOGIYA/raw/master/app/src/main/assets/kirish.pdf"));
+
+        modelViewPagerList.add(new ModelViewPager(R.drawable.b1,"KIRISH","BIRINCHI QISM. ETNOLOGIYANING UMUMIY MUAMMOLARI ...","https://github.com/shoxumarzoda/RANGTASVIR/raw/master/kirish.pdf"));
         modelViewPagerList.add(new ModelViewPager(R.drawable.b2,"I BOB. TASVIRIY SAN’AT","Fan haqida ...","1"));
         modelViewPagerList.add(new ModelViewPager(R.drawable.b3,"II BOB. RANGTASVIR  JANRLARI","Portret janri ... ","2"));
         modelViewPagerList.add(new ModelViewPager(R.drawable.b4,"III BOB.  RANGTASVIR QOIDA VA QONUNLARI","Ritm ...","3"));
@@ -117,8 +118,8 @@ public class HomeFragment extends Fragment {
         modelViewPagerList.add(new ModelViewPager(R.drawable.b6,"V BOB. RANGTASVIR ISHLASH BOSQICHLARI","Rangtasvir ishlash metodikasi ...","5"));
         modelViewPagerList.add(new ModelViewPager(R.drawable.b7,"VI BOB.  RANGTASVIRDA ODAM BOSHINI ISHLASH TURLARI","Odam boshini grizayl uslubidagi yechimi ...","6"));
         modelViewPagerList.add(new ModelViewPager(R.drawable.b8,"XULOSA","XULOSA ...","https://github.com/shoxumarzoda/ETNOLOGIYA/raw/master/xulosa.pdf"));
-        modelViewPagerList.add(new ModelViewPager(R.drawable.b9,"ATAMALARNING IZOHLI LUG‘ATI","ATAMALARNING IZOHLI LUG‘ATI ...","https://github.com/shoxumarzoda/ETNOLOGIYA/raw/master/izoh.pdf"));
-        modelViewPagerList.add(new ModelViewPager(R.drawable.book,"ADABIYOTLAR","Foydalanilgan adabiyotlar ...","https://github.com/shoxumarzoda/ETNOLOGIYA/raw/master/adabiyot.pdf"));
+        modelViewPagerList.add(new ModelViewPager(R.drawable.b9,"ATAMALARNING IZOHLI LUG‘ATI","ATAMALARNING IZOHLI LUG‘ATI ...","https://github.com/shoxumarzoda/RANGTASVIR/raw/master/izoh.pdf"));
+        modelViewPagerList.add(new ModelViewPager(R.drawable.book,"ADABIYOTLAR","Foydalanilgan adabiyotlar ...","https://github.com/shoxumarzoda/RANGTASVIR/raw/master/adabiyot.pdf"));
 
     }
 
